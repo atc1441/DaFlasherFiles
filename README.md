@@ -32,3 +32,9 @@ This installs the SoftDevice version 2.0.1 and an Bootloader for SD2.0.1
 This is just a demo Made for the P8 Smartwatch to show the hardware is working,
 it will also run on other Watches but maybe they have different pinout for aditional Hardware like the Push Button.
 
+
+## Compatible Software:
+
+### Arduino: https://github.com/atc1441/D6-arduino-nRF5
+### Espruino: https://github.com/fanoush/ds-d6
+### Pinetime: https://wiki.pine64.org/index.php/PineTime
