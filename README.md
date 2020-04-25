@@ -2,6 +2,11 @@
 
 These are the files needed for the DaFlasher app, Playstore: https://play.google.com/store/apps/details?id=com.atcnetz.paatc.patc
 
+after flashing you will end with an Nordic DFU Bootloader where you can flash your own Firmware to The Watch.
+Like via Arduino etc. 
+## And all without opening the watch one time, all over the Air.
+I recomment to have one opened watch to develope new Firmware and when it is tested upload it to the closed Watch
+
 Here you have the 3 Files you can see me using in this video:
 
 (click on the image)
