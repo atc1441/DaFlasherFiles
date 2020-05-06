@@ -41,7 +41,7 @@ it will also run on other Watches but maybe they have different pinout for aditi
 
 ### Arduino: https://youtu.be/3gjmEdEDJ5A 
 In the Portable version there is the P8 Board available.
-Portable version: http://atcnetz.de/downloads/D6Emulator.zip
+Portable version: http://atcnetz.de/downloads/D6Arduino.rar 
 Install Version: https://github.com/atc1441/D6-arduino-nRF5
 ### Espruino: https://github.com/fanoush/ds-d6
 ### Pinetime: https://wiki.pine64.org/index.php/PineTime
