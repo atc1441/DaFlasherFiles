@@ -17,6 +17,10 @@ https://www.youtube.com/watch?v=gUVEz-pxhgg
 [![YoutubeVideo](https://img.youtube.com/vi/gUVEz-pxhgg/0.jpg)](https://www.youtube.com/watch?v=gUVEz-pxhgg)
 
 
+# You can Upate the Bootloader and SD to any Other version as long as the New Bootloader is At address 0x78000, 
+### this can also be changed but needs an additional bootloader and flash step.
+
+
 ## Files:
 
 ### DaFitBootloader23Hacked.bin
