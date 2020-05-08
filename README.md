@@ -32,6 +32,9 @@ https://gist.github.com/atc1441/d0a3c1f5ee69ab901bccba4eb47a6e4e
 ### FitBootloaderDFU2.0.1.zip
 This installs the SoftDevice version 2.0.1 and an Bootloader for SD2.0.1
 
+### ATCdfuFromSD2toSD5.zip
+If you want to go Back to SD5.0.0 Bootloader you can do so with this file
+
 ### P8TestMenuDisplay.ino.zip
 This is just a more advanced demo Made for the P8 Smartwatch to show the hardware is working,
 it will also run on other Watches but maybe they have different pinout for aditional Hardware like the Push Button.
