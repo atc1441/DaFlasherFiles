@@ -30,7 +30,7 @@ Here is a list of all the Compatible watches that can be flashed with this "Hack
 https://gist.github.com/atc1441/d0a3c1f5ee69ab901bccba4eb47a6e4e
 
 ### FitBootloaderDFU2.0.1.zip
-#### To create your own DFU update files for SD2.0.1 you need to use NRFUTILSv0.5.2
+#### To create your own DFU update files for SD2.0.1 you need to use nrfutilV0.5.3
 This installs the SoftDevice version 2.0.1 and an Bootloader for SD2.0.1
 
 ### ATCdfuFromSD2toSD5.zip
