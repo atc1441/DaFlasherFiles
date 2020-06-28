@@ -37,20 +37,12 @@ https://github.com/NordicSemiconductor/pc-nrfutil/releases/tag/v0.5.3
 ### ATCdfuFromSD2toSD5.zip
 If you want to go Back to SD5.0.0 Bootloader you can do so with this file
 
-### P8TestMenuDisplay.ino.zip
+### ATCwatchP8.ino.zip // OLD Name: P8TestMenuDisplay.ino.zip
 This is just a more advanced demo Made for the P8 Smartwatch to show the hardware is working,
 it will also run on other Watches but maybe they have different pinout for aditional Hardware like the Push Button.
 
-### P8TestMenu.ino.zip
-This is just a demo Made for the P8 Smartwatch to show the hardware is working,
-it will also run on other Watches but maybe they have different pinout for aditional Hardware like the Push Button.
-
-### PineTimeTestMenuDisplay.ino.zip
+### ATCwatchPineTime.ino.zip // OLD Name: PineTimeTestMenuDisplay.ino.zip
 This is just a more advanced demo Made for the PineTime Smartwatch to show the hardware is working,
-it will also run on other Watches but maybe they have different pinout for aditional Hardware like the Push Button.
-
-### PineTimeTestMenu.ino.zip
-This is just a demo Made for the PineTime Smartwatch to show the hardware is working,
 it will also run on other Watches but maybe they have different pinout for aditional Hardware like the Push Button.
 
 
