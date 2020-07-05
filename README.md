@@ -5,6 +5,10 @@ https://play.google.com/store/apps/details?id=com.atcnetz.paatc.patc
 
 After flashing you will end with an Nordic DFU Bootloader where you can flash your own Firmware to The Watch.
 Like via Arduino etc. 
+
+
+### You can support my work via paypal: https://paypal.me/hoverboard1 this keeps projects like this comming.
+
 ## And all without opening the watch, all over the Air.
 I recomment to have one opened watch to develope new Firmware and when it is tested upload it to the closed Watch
 
