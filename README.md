@@ -1,4 +1,4 @@
-#ATTENTION!!!! DO NOT FLASH ANY MOY-TON5 devives right now it will brick the watch. See the model undel infos in the Watch menu
+# ATTENTION!!!! DO NOT FLASH ANY MOY-TON5 devives right now it will brick the watch. See the model undel infos in the Watch menu
 
 # DaFlasherFiles
 
