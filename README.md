@@ -1,7 +1,3 @@
-# ATTENTION!!!! DO NOT FLASH ANY MOY-TON5 devices right now it will brick the watch. See the model model infos in the Watch menu
-To flash TON use this file instead of the DaFitBootloader23Hacked.bin/HackedBootloader.bin https://github.com/fanoush/ds-d6/blob/master/espruino/DFU/P8/p8-bootloader-sdk14-dafit.bin
-Many thanks to fanoush for his work on making it compatible
-
 # DaFlasherFiles
 
 These are the files needed for the DaFlasher app, Playstore: 
