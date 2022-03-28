@@ -27,6 +27,11 @@ https://www.youtube.com/watch?v=gUVEz-pxhgg
 
 ## Files:
 
+### DaFitBootloader_nRF52840_Hacked.bin
+This directly enables an SD 6.1.1 Nordic compatible Secure DFU on DaFit nRF52840 Watches like Kospet Rock or Magic 3
+It accepts any signing key to not lock yourself out of the watch, but you still have to suply a signing file when generating an DFU update.
+No aditional file needs to be flashed.
+
 ### DaFitBootloader23Hacked.bin
 This gets you started, flash this file first when you are on the Stock DaFit Firmware, 
 this will install an Custom Bootloader i made using the Installed SoftDevice5.0.1
